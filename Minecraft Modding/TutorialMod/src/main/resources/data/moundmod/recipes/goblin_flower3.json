@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": 
+	[
+		{ "item": "moundmod:goblin_flower3" }
+	],	
+	
+	"result": 
+	{ 
+	"item": "minecraft:cyan_dye",
+	"count": 1
+	}
+
+}

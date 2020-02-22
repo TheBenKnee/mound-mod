@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "moundmod:block/goblin_log_top",
+        "side": "moundmod:block/goblin_log"
+    }
+}

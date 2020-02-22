@@ -1,0 +1,21 @@
+package com.github.thebenknee.moundmod.world.gen;
+
+import com.github.thebenknee.moundmod.init.MoundBlocks;
+import com.github.thebenknee.moundmod.world.gen.tree.BasicTreeFeature;
+
+import net.minecraft.block.Blocks;
+import net.minecraft.world.gen.feature.AbstractTreeFeature;
+import net.minecraft.world.gen.feature.FlowersFeature;
+import net.minecraft.world.gen.feature.NoFeatureConfig;
+
+public class MoundFeatures 
+{
+
+	//Flowers
+	public static final FlowersFeature GOBLIN_FLOWERS = new GoblinForestFlowersFeature(NoFeatureConfig::deserialize);
+	
+	//Trees
+	public static final AbstractTreeFeature<NoFeatureConfig> GOBLIN_TREE = new BasicTreeFeature.Builder().log(Blocks.DIAMOND_BLOCK.getDefaultState()).leaves(MoundBlocks.goblin_leaves.getDefaultState()).trunkFruit(Blocks.ACACIA_FENCE.getDefaultState()).minHeight(7).maxHeight(9).hanging(Blocks.MELON.getDefaultState()).hangingChance(.3F).create();
+
+	
+}

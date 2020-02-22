@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "moundmod:block/tester" },
+        "facing=west": { "model": "moundmod:block/tester", "y": 90 },
+        "facing=north": { "model": "moundmod:block/tester", "y": 180 },
+        "facing=east": { "model": "moundmod:block/tester", "y": 270 }
+    }
+}

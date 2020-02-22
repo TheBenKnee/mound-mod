@@ -1,0 +1,6 @@
+{
+    "parent": "block/fence_post",
+    "textures": {
+        "texture": "moundmod:block/goblin_planks"
+    }
+}

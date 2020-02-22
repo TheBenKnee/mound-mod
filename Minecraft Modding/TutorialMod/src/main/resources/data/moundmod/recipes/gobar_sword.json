@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"G",
+		"G",
+		"S"
+	],
+	
+	"key":
+	{
+		"G": { "item": "moundmod:gobar_ingot" },
+		"S": { "item": "minecraft:stick" }
+	},
+	
+	"result": 
+	{ 
+	"item": "moundmod:gobar_sword",
+	"count": 1
+	}	
+}

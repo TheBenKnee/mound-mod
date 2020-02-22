@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"G G",
+		"GGG",
+		"GGG"
+	],
+	
+	"key":
+	{
+		"G": { "item": "moundmod:infused_gobar_ingot" }
+	},
+	
+	"result": { "item": "moundmod:infused_gobar_chestplate" },
+	"count": 1
+	
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "block/cross",
+    "textures": {
+        "cross": "moundmod:block/goblin_flower4"
+    }
+}

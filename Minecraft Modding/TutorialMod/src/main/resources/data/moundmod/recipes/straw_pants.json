@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"GGG",
+		"G G",
+		"G G"
+	],
+	
+	"key":
+	{
+		"G": { "item": "minecraft:wheat" }
+	},
+	
+	"result": { "item": "moundmod:straw_pants" },
+	"count": 1
+	
+}

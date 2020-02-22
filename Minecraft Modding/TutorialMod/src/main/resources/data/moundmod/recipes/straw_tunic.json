@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"G G",
+		"GGG",
+		"GGG"
+	],
+	
+	"key":
+	{
+		"G": { "item": "minecraft:wheat" }
+	},
+	
+	"result": { "item": "moundmod:straw_tunic" },
+	"count": 1
+	
+}

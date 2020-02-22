@@ -1,0 +1,7 @@
+{
+	"type": "minecraft:smelting",
+	"ingredient": { "item": "moundmod:goblin_flesh" },	
+	"result": "moundmod:goblin_jerky",
+	"experience": 5.0,
+	"cookingtime": 200
+}

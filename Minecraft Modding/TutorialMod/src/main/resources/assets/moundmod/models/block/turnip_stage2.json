@@ -1,0 +1,6 @@
+{
+    "parent": "block/crop",
+    "textures": {
+        "crop": "moundmod:block/turnip_stage2"
+    }
+}

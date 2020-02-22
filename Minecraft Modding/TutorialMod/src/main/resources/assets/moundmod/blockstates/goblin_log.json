@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "axis=y":    { "model": "moundmod:block/goblin_log" },
+        "axis=z":     { "model": "moundmod:block/goblin_log", "x": 90 },
+        "axis=x":     { "model": "moundmod:block/goblin_log", "x": 90, "y": 90 }
+    }
+}

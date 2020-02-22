@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": 
+	[
+		{ "item": "moundmod:goblin_flower4" }
+	],	
+	
+	"result": 
+	{ 
+	"item": "minecraft:white_dye",
+	"count": 1
+	}
+
+}

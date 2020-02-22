@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"GSG",
+		"GSG"
+	],
+	
+	"key":
+	{
+		"G": { "item": "moundmod:goblin_planks" },
+		"S": { "item": "minecraft:stick"}
+	},
+	
+	"result": 
+	{ 
+	"item": "moundmod:goblin_fence" },
+	"count": 3
+	}
+	
+}

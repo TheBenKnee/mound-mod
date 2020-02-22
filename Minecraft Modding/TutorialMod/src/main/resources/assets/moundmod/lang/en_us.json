@@ -1,0 +1,103 @@
+{
+///Creative Tab
+    "itemGroup.mound": "Mound Mod",
+
+//Blocks
+    "block.moundmod.block_gobar": "Block of Gobar",
+    "block.moundmod.block_infused_gobar": "Block of Infused Gobar",
+    "block.moundmod.block_heart": "Block of Goblin Heart",
+    "block.moundmod.ore_gobar": "Gobar Ore",
+    "block.moundmod.ore_overworld_amethyst": "Amethyst Ore",
+    "block.moundmod.block_amethyst": "Block of Amethyst",
+    "block.moundmod.goblin_dirt": "Goblin Dirt",
+    "block.moundmod.goblin_grass": "Goblin Grass",
+    "block.moundmod.goblin_forest_grass": "Goblin Forest Grass",
+    "block.moundmod.goblin_forest_dirt": "Goblin Forest Dirt",
+    "block.moundmod.goblin_stone": "Goblin Stone",
+    "block.moundmod.goblin_gravel": "Goblin Gravel",
+    "block.moundmod.goblin_planks": "Goblin Planks",
+    "block.moundmod.goblin_log": "Goblin Log",
+    "block.moundmod.goblin_leaves": "Goblin Leaves",
+    "block.moundmod.goblin_ladder": "Goblin Ladder",
+    "block.moundmod.goblin_stairs": "Goblin Stairs",
+    "block.moundmod.goblin_pressure_plate": "Goblin Pressure Plate",
+    "block.moundmod.goblin_button": "Goblin Button",
+    "block.moundmod.goblin_fence_gate": "Goblin Fence Gate",
+    "block.moundmod.goblin_fence": "Goblin Fence",
+    "block.moundmod.goblin_door": "Goblin Door",
+    "block.moundmod.goblin_sapling": "Goblin Sapling",
+    
+   
+//Flowers
+  	"block.moundmod.goblin_flower": "Purplebell",
+  	"block.moundmod.goblin_flower2": "Camellia",
+  	"block.moundmod.goblin_flower3": "White Lily",
+  	"block.moundmod.goblin_flower4": "Blue Dahlia",
+
+
+//Items
+    "item.moundmod.gobar_ingot": "Gobar Ingot",
+    "item.moundmod.infused_gobar_ingot": "Infused Gobar Ingot",
+    "item.moundmod.goblin_heart": "Goblin Heart",
+	"item.moundmod.amethyst": "Amethyst",
+	"item.moundmod.angry_egg": "Angry Egg",
+	
+	"item.moundmod.goblin_egg": "Goblin Egg",
+	"item.moundmod.spear_goblin_egg": "Spear Goblin Egg",
+	"item.moundmod.goblin_warlord_egg": "Goblin Warlord Egg",
+	"item.moundmod.goblin_leader_egg": "Goblin Leader Egg",
+	"item.moundmod.minion_egg": "Minion Egg",
+	
+	
+//Food
+	"item.moundmod.goblin_flesh": "Goblin Flesh",
+	"item.moundmod.goblin_jerky": "Goblin Jerky",
+	"item.moundmod.sinister_apple": "Sinister Apple",
+    "item.moundmod.turnip": "Turnip",
+    
+
+//Tools
+    "item.moundmod.gobar_sword": "Gobar Sword",
+    "item.moundmod.gobar_shovel": "Gobar Shovel",
+    "item.moundmod.gobar_axe": "Gobar Axe",
+    "item.moundmod.gobar_pickaxe": "Gobar Pickaxe",
+    "item.moundmod.gobar_hoe": "Gobar Hoe",
+
+    "item.moundmod.infused_gobar_sword": "Infused Gobar Sword",
+    "item.moundmod.infused_gobar_shovel": "Infused Gobar Shovel",
+    "item.moundmod.infused_gobar_axe": "Infused Gobar Axe",
+    "item.moundmod.infused_gobar_pickaxe": "Infused Gobar Pickaxe",
+    "item.moundmod.infused_gobar_hoe": "Infused Gobar Hoe",
+    
+    "item.moundmod.spear": "Spear",
+
+
+//Armor
+    "item.moundmod.gobar_helmet": "Gobar Helmet",
+    "item.moundmod.gobar_chestplate": "Gobar Chestplate",
+    "item.moundmod.gobar_leggings": "Gobar Leggings",
+    "item.moundmod.gobar_boots": "Gobar Boots",
+
+    "item.moundmod.infused_gobar_helmet": "Infused Gobar Helmet",
+    "item.moundmod.infused_gobar_chestplate": "Infused Gobar Chestplate",
+    "item.moundmod.infused_gobar_leggings": "Infused Gobar Leggings",
+    "item.moundmod.infused_gobar_boots": "Infused Gobar Boots",
+
+    "item.moundmod.straw_hat": "Straw Hat",
+    "item.moundmod.straw_tunic": "Straw Tunic",
+    "item.moundmod.straw_pants": "Straw Pants",
+    "item.moundmod.straw_boots": "Straw Boots",
+    
+    
+//Entities
+	"entity.moundmod.goblin": "Goblin",
+	"entity.moundmod.spear_goblin": "Spear Goblin",
+	"entity.moundmod.goblin_warlord": "Goblin Warlord",
+	"entity.moundmod.goblin_leader": "Goblin Leader",
+	"entity.moundmod.minion": "Minion",
+	
+	
+//Biomes
+  	"biome.moundmod.goblin_forest": "Goblin Forest",
+	"biome.moundmod.diseased_biome": "Diseased Lands"
+}

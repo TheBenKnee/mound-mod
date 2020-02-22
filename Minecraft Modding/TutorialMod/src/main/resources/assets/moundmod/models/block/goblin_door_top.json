@@ -1,0 +1,7 @@
+{
+    "parent": "block/door_top",
+    "textures": {
+        "bottom": "moundmod:block/goblin_door_bottom",
+        "top": "moundmod:block/goblin_door_top"
+    }
+}

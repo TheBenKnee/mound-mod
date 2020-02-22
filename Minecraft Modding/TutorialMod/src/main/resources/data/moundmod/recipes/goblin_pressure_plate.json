@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"GG"
+	],
+	
+	"key":
+	{
+		"G": { "item": "moundmod:goblin_planks" }
+	},
+	
+	"result": { "item": "moundmod:goblin_pressure_plate" },
+	"count": 1
+	
+}

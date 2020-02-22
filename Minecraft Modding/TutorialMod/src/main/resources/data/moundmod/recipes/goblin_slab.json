@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"GGG"
+	],
+	
+	"key":
+	{
+		"G": { "item": "moundmod:goblin_planks" }
+	},
+	
+	"result": 
+	{ 
+	"item": "moundmod:goblin_log",
+	"count": 1
+	}	
+}

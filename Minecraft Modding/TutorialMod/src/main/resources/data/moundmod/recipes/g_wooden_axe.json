@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"GG",
+		"GS",
+		" S"
+	],
+	
+	"key":
+	{
+		"G": { "item": "moundmod:goblin_planks" },
+		"S": { "item": "minecraft:stick" }
+	},
+	
+	"result": { "item": "minecraft:wooden_axe" },
+	"count": 1
+	
+}

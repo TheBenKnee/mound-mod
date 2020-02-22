@@ -1,0 +1,57 @@
+{
+	"type": "minecraft:entity",
+	"pools":
+	[
+		{
+			"rolls":
+			{
+				"min": 1,
+				"max": 1
+			},
+			"bonus_rolls": 2,
+			"entries":
+			[
+				{
+					"type": "minecraft:item",
+					"functions":
+					[
+						{
+							"function": "minecraft:set_count",
+							"count":
+							{
+								"min": 1,
+								"max": 2
+							}
+						}
+					],			
+					"name": "moundmod:goblin_flesh",
+					"weight": 100
+				},
+				
+				{
+					"type": "minecraft:item",
+					"functions":
+					[
+						{
+							"function": "minecraft:set_damage",
+							"damage": 0.01
+						},
+						
+						{
+							"function": "minecraft:set_name",
+							"name": "The Sword of Justice"
+						},
+						
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{Enchantments:[{id:sharpness,lvl:10}]}"
+						}
+					],
+					
+					"name": "moundmod:gobar_sword",
+					"weight": 10
+				}
+			]
+		}
+	]
+}

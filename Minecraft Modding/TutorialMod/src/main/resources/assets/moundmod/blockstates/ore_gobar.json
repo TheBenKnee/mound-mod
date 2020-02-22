@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "": { "model": "moundmod:block/ore_gobar" }
+    }
+}

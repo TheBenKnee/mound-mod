@@ -1,0 +1,6 @@
+{
+    "parent": "block/button",
+    "textures": {
+        "texture": "moundmod:block/goblin_planks"
+    }
+}

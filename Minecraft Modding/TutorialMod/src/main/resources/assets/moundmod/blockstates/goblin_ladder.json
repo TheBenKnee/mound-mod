@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "moundmod:block/goblin_ladder" },
+        "facing=east":  { "model": "moundmod:block/goblin_ladder", "y": 90 },
+        "facing=south": { "model": "moundmod:block/goblin_ladder", "y": 180 },
+        "facing=west":  { "model": "moundmod:block/goblin_ladder", "y": 270 }
+    }
+}

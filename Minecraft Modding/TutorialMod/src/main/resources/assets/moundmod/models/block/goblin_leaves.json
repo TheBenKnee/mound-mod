@@ -1,0 +1,6 @@
+{
+    "parent": "block/leaves",
+    "textures": {
+        "all": "moundmod:block/goblin_leaves"
+    }
+}

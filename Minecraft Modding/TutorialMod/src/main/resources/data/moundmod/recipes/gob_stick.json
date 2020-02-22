@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"G",
+		"G"
+	],
+	
+	"key":
+	{
+		"G": { "item": "moundmod:goblin_planks" }
+	},
+	
+	"result": 
+	{ 
+	"item": "minecraft:stick",
+	"count": 4
+	}	
+}

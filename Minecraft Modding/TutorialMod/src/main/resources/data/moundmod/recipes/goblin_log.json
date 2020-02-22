@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": 
+	[
+		{ "item": "moundmod:goblin_log" }
+	],	
+	
+	"result": 
+	{ 
+		"item": "moundmod:goblin_planks",
+		"count": 4
+	}
+
+}

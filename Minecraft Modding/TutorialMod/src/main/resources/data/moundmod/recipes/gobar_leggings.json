@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"GGG",
+		"G G",
+		"G G"
+	],
+	
+	"key":
+	{
+		"G": { "item": "moundmod:gobar_ingot" }
+	},
+	
+	"result": { "item": "moundmod:gobar_leggings" },
+	"count": 1
+	
+}

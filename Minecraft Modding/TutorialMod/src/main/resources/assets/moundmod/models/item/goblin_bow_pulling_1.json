@@ -1,0 +1,6 @@
+{
+    "parent": "item/bow",
+    "textures": {
+        "layer0": "moundmod:item/goblin_bow_pulling_1"
+    }
+}

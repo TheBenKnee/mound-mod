@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"GGG",
+		"GAG",
+		"GGG"
+	],
+	
+	"key":
+	{
+		"G": { "item": "moundmod:goblin_jerky" },
+		"A": { "item": "minecraft:apple" }
+	},
+	
+	"result": { "item": "moundmod:sinister_apple" },
+	"count": 1
+	
+}
